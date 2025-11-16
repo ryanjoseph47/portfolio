@@ -85,3 +85,7 @@ body{
 .button-24:active {
   opacity: .5;
 }
+
+.my-picture{
+  border-radius: 50%;
+}
