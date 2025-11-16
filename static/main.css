@@ -7,10 +7,6 @@
 --white: #ffffffff;
 }
 
-body{
-    background-color: var(--white);
-    color: var(--black)
-}
 
 .button-29 {
   background: #4265ff;
@@ -87,5 +83,6 @@ body{
 }
 
 .my-picture{
+  border: thick solid #14213dff;
   border-radius: 50%;
 }
