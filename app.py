@@ -3,7 +3,7 @@ import streamlit as st
 # Configure the page
 st.set_page_config(
   page_title = 'Ryan | portfolio',
-  page_icon= '👽',
+  page_icon= 'ryan.ico',
   layout="wide"
 )
 
